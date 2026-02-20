@@ -58,7 +58,7 @@
                 <!-- Logo 
                 <div class="col-6 col-md-3">
                     <div class="header-logo">
-                        <img src="<?php bloginfo('template_url'); ?>/imgs/logos/romanhol-branca-adm.png" alt="" class="img-fluid">
+                        <img src="<?php bloginfo('template_url'); ?>/imgs/logos/romanhol-branca.png" alt="" class="img-fluid">
                     </div>
                 </div>
                 <!-- Menu Desk 
@@ -106,7 +106,7 @@
                 <div class="col-6 col-md-4 text-center">
                     <div class="header-logo">
                         <a href="<?php echo get_site_url(); ?>/">
-                            <img src="<?php bloginfo('template_url'); ?>/imgs/logos/romanhol-branca.png" alt="" class="img-fluid">
+                            <img src="<?php bloginfo('template_url'); ?>/imgs/logos/romanhol-branca-adm.png" alt="" class="img-fluid">
                         </a>
                     </div>
                 </div>
